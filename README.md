@@ -1,2 +1,2 @@
 # CS-Website
-Staff page for CheesySocks Website
+CheesySocks Website
